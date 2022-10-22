@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .body{
+    position: fixed;
+  }
+  
+  .app-photo>img{
+    height:9.5rem;
+    width:7.5rem;
+    margin-right: 2rem;
+    margin-left: 2.5rem;
+    padding-top: .5rem;
+  }
+
+  .app-details-top>div{
+    padding: 1rem;
+    display: flex;
+  }
+  
+  .app-details-bottom>div{
+    padding: 1rem;
+    display: inline;
+    justify-content: space-between;
+  }
+  
+  .app-details {
+    box-sizing: border-box;
+    line-height: 0.5rem;
+    background: #f9f9f9;
+    border: 1px solid #c1c1c1;
+    margin-top: 2rem;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    border-radius: 2.5px;
+  }
+
+  .app-details>div{
+    display: inline-block;
+  }
+
+  .age>div{
+    display: inline;
+    padding-right:1rem;
+    justify-content: space-between;
+  }
+
+  button{
+    position: relative;
+    margin-left:85%;
+  }
+
+  
