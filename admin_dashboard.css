@@ -165,7 +165,7 @@ main{
 }
 
 .card-single h1 + small {
-    color:var(--text-grey);
+    color: var(--text-grey);
 
 }
 
@@ -176,7 +176,7 @@ main{
 
 
 .card-single div:first-child{
-    color: var(--text-grey)
+    color: var(--color-dark)
 }
 
 .recent-grid{
@@ -214,6 +214,7 @@ main{
 
 table{
     border-collapse:collapse;  
+    
 }
 
 thead tr{
